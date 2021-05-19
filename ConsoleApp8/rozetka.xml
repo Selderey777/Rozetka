@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="02.07.2019">
+  <shop>
+    <name>Тринити</name>
+    <company>ТОВ Тринити СБ</company>
+    <url>http://ctb.com.ua</url>
+    <currencies>
+      <currency id="UAH" rate="1.00" />
+      <currency id="USD" rate="28" />
+      <currency id="EUR" rate="35" />
+    </currencies>
+    <categories>
+      <category id="80084">Жорсткі диски</category>
+    </categories>
+    <offers>
+      <offer id="2000" available="true">
+        <url>https://ctb.com.ua/product/zhestkij-disk-hdd-1tb-64mb-wd10purz/</url>
+        <categoryId>80084</categoryId>
+        <price>53</price>
+        <currencyId>USD</currencyId>
+        <picture>http://img.ctb.com.ua/80084/wd10purz.png</picture>
+        <vendor>Western Digital</vendor>
+        <name>Western Digital Purple 1TB 64MB WD10PURZ</name>
+        <description><![CDATA[<p></p>]]></description>
+        <param name="Місткість накопичувача">1 TB</param>
+        <param name="Тип жорсткого диска">Внутрішній</param>
+        <param name="Інтерфейс підключення">SATAIII</param>
+        <param name="Форм-фактор">3.5&quot;</param>
+        <param name="Призначення">Для компютера</param>
+        <param name="Швидкість обертання шпинделя">5400 об/хв</param>
+        <param name="Обсяг буфера">64 МБ</param>
+        <param name="Технологія">HDD</param>
+        <stock_quantity>10</stock_quantity>
+      </offer>
+      <offer id="2001" available="true">
+        <url>https://ctb.com.ua/product/zhestkij-disk-hdd-2tb-64mb-wd20purz/</url>
+        <categoryId>80084</categoryId>
+        <price>53</price>
+        <currencyId>USD</currencyId>
+        <picture>http://img.ctb.com.ua/80084/wd20purz.png</picture>
+        <vendor>Western Digital</vendor>
+        <name>Western Digital Purple 2TB 64MB WD20PURZ</name>
+        <description><![CDATA[<p></p>]]></description>
+        <param name="Місткість накопичувача">2 TB</param>
+        <param name="Тип жорсткого диска">Внутрішній</param>
+        <param name="Інтерфейс підключення">SATAIII</param>
+        <param name="Форм-фактор">3.5&quot;</param>
+        <param name="Призначення">Для компютера</param>
+        <param name="Швидкість обертання шпинделя">5400 об/хв</param>
+        <param name="Обсяг буфера">64 МБ</param>
+        <param name="Технологія">HDD</param>
+        <stock_quantity>10</stock_quantity>
+      </offer>
+      <offer id="2002" available="true">
+        <url>https://ctb.com.ua/product/3tb-64mb-wd30purz0purz-kopirovat/</url>
+        <categoryId>80084</categoryId>
+        <price>53</price>
+        <currencyId>USD</currencyId>
+        <picture>http://img.ctb.com.ua/80084/wd30purz.jpg</picture>
+        <vendor>Western Digital</vendor>
+        <name>Western Digital Purple 4TB 64MB WD30PURZ</name>
+        <description><![CDATA[<p></p>]]></description>
+        <param name="Місткість накопичувача">3 TB</param>
+        <param name="Тип жорсткого диска">Внутрішній</param>
+        <param name="Інтерфейс підключення">SATAIII</param>
+        <param name="Форм-фактор">3.5&quot;</param>
+        <param name="Призначення">Для компютера</param>
+        <param name="Швидкість обертання шпинделя">5400 об/хв</param>
+        <param name="Обсяг буфера">64 МБ</param>
+        <param name="Технологія">HDD</param>
+        <stock_quantity>10</stock_quantity>
+      </offer>
+      <offer id="2003" available="true">
+        <url>https://ctb.com.ua/product/zhestkij-disk-hdd-4tb-64mb-wd40purz0purz-kopirovat/</url>
+        <categoryId>80084</categoryId>
+        <price>53</price>
+        <currencyId>USD</currencyId>
+        <picture>http://img.ctb.com.ua/80084/wd40purz.png</picture>
+        <vendor>Western Digital</vendor>
+        <name>Western Digital Purple 4TB 64MB WD40PURZ</name>
+        <description><![CDATA[<p></p>]]></description>
+        <param name="Місткість накопичувача">4 TB</param>
+        <param name="Тип жорсткого диска">Внутрішній</param>
+        <param name="Інтерфейс підключення">SATAIII</param>
+        <param name="Форм-фактор">3.5&quot;</param>
+        <param name="Призначення">Для компютера</param>
+        <param name="Швидкість обертання шпинделя">5400 об/хв</param>
+        <param name="Обсяг буфера">64 МБ</param>
+        <param name="Технологія">HDD</param>
+        <stock_quantity>10</stock_quantity>
+      </offer>
+      <offer id="2004" available="true">
+        <url>https://ctb.com.ua/product/zhorstkij-disk-hdd-6000-gb-wd60ejrx-purple/</url>
+        <categoryId>80084</categoryId>
+        <price>53</price>
+        <currencyId>USD</currencyId>
+        <picture>http://img.ctb.com.ua/80084/wd60purz.jpg</picture>
+        <vendor>Western Digital</vendor>
+        <name>Western Digital Purple 6TB 64MB WD60PURZ</name>
+        <description><![CDATA[<p></p>]]></description>
+        <param name="Місткість накопичувача">6 TB</param>
+        <param name="Тип жорсткого диска">Внутрішній</param>
+        <param name="Інтерфейс підключення">SATAIII</param>
+        <param name="Форм-фактор">3.5&quot;</param>
+        <param name="Призначення">Для компютера</param>
+        <param name="Швидкість обертання шпинделя">5400 об/хв</param>
+        <param name="Обсяг буфера">64 МБ</param>
+        <param name="Технологія">HDD</param>
+        <stock_quantity>10</stock_quantity>
+      </offer>
+      <offer id="2005" available="true">
+        <url>https://ctb.com.ua/product/zhorstkij-disk-hdd-8000-gb-wd80ejrx-purple/</url>
+        <categoryId>80084</categoryId>
+        <price>53</price>
+        <currencyId>USD</currencyId>
+        <picture>http://img.ctb.com.ua/80084/wd80purz.jpg</picture>
+        <vendor>Western Digital</vendor>
+        <name>Western Digital Purple 8TB 64MB WD80PURZ</name>
+        <description><![CDATA[<p></p>]]></description>
+        <param name="Місткість накопичувача">8 TB</param>
+        <param name="Тип жорсткого диска">Внутрішній</param>
+        <param name="Інтерфейс підключення">SATAIII</param>
+        <param name="Форм-фактор">3.5&quot;</param>
+        <param name="Призначення">Для компютера</param>
+        <param name="Швидкість обертання шпинделя">5400 об/хв</param>
+        <param name="Обсяг буфера">64 МБ</param>
+        <param name="Технологія">HDD</param>
+        <stock_quantity>10</stock_quantity>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
